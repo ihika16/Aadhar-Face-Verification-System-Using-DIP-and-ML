@@ -6,13 +6,7 @@ This project demonstrates how traditional image processing techniques can be com
 
 ---
 
-## 🎥 Demo
 
-### 🔍 Project Demo
-
-👉 (Add your demo video link here)
-
----
 
 ## 🚀 Features
 
